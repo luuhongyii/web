@@ -1,5 +1,11 @@
 # rollup-plugin-workbox
 
+## 9.0.0
+
+### Major Changes
+
+- 5260164: Drop support for Node.js 18 and 20, which have reached end-of-life. The minimum supported Node.js version is now 22.0.0.
+
 ## 8.1.3
 
 ### Patch Changes
